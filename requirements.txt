@@ -1,0 +1,5 @@
+### 2. The Global `requirements.txt`
+torch==2.1.0
+gradio==4.12.0
+numpy==1.26.2
+pandas==2.1.4ss
