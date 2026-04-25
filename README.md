@@ -1,9 +1,13 @@
 # 🏦 Banking Loan Guard: End-to-End Credit Risk Intelligence
+
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-orange?logo=gradio&logoColor=white)](https://gradio.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/naveedsoomro/end-to-end-credit-default-prediction)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A production-ready Deep Learning implementation for automated credit risk assessment. This project bridges the gap between high-dimensional financial research (297 features) and a lightweight, user-centric inference engine designed for real-time banking applications.
+> 🚀 **Live on Kaggle:** [End-to-End Credit Default Prediction (Gold Standard Analysis)](https://www.kaggle.com/code/naveedsoomro/end-to-end-credit-default-prediction)
+
+A production-ready Deep Learning implementation for automated credit risk assessment...
 
 ## 🚀 Project Overview
 In modern Fintech, models are often trained on hundreds of bureau data points that are unavailable at the time of a quick user application. **Banking Loan Guard** solves this "Sparsity Gap" by utilizing a custom PyTorch MLP architecture and a feature-masking inference engine.
@@ -52,6 +56,7 @@ Here is the industry-grade content for your README.md. Open the file in VS Code,
 
 Markdown
 # 🏦 Banking Loan Guard: End-to-End Credit Risk Intelligence
+
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-orange?logo=gradio&logoColor=white)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
