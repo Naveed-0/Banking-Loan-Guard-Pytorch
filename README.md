@@ -5,7 +5,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/naveedsoomro/end-to-end-credit-default-prediction)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> 🚀 **Live on Kaggle:** [End-to-End Credit Default Prediction (Gold Standard Analysis)](https://www.kaggle.com/code/naveedsoomro/end-to-end-credit-default-prediction)
+> [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/Soomro0/banking-loan-guard)
+> > 🚀 **Live on Kaggle:** [End-to-End Credit Default Prediction (Gold Standard Analysis)](https://www.kaggle.com/code/naveedsoomro/end-to-end-credit-default-prediction)
 
 A production-ready Deep Learning implementation for automated credit risk assessment...
 
